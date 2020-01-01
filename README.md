@@ -19,11 +19,16 @@ Under System / Configuration / Sutton Silver / Price Lists
  - you can now completly restrict the entire list from even showing the products at all, and redirect from the product if directly accessed
  - category resitrcition is now a configurable option.
  
+ 
+Best part of it This Magento 2  customer quote price lists module is that its FREE and fully compatible with magento 2.1 upwords. 
+ 
 Code now fully commnented aswell so it should make more sense :D 
  
 Ideas: 
 
 Any ideas feel free to post them in issues where to go next with this. 
+
+
 
 Other Modules COming Soon:
 
